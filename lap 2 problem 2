@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+int L,W,A,P;
+cout<<"enter your dimesnions"<<endl;
+cin >>L>>W;
+A=L*W;
+P=(L+W)*2;
+cout<<A<<endl<<P<<endl;
+return 0;
+}
+
