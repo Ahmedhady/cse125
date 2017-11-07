@@ -11,3 +11,10 @@ cout<<A<<endl<<P<<endl;
 return 0;
 }
 
+int L,A,P;
+cout<<"enter your dimesion"<<endl;
+cin>>L;
+A=L*L;
+P=L+L+L+L;
+cout<<A<<endl<<P<<endl;
+return 0;
